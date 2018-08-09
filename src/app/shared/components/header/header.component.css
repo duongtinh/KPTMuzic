@@ -1,0 +1,16 @@
+.nav-bar{
+    width: 100%;
+    z-index: -1;
+}
+.nav-bar-background {
+    background-color: rgba(0,0,0,0.75);
+}
+.item-nav-bar-color {
+    color: white;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover 
+.nav-pills>li>a:focus, .nav-pills>li>a:hover {
+    color: #ff0;
+    background-color: inherit;
+}

@@ -1,0 +1,18 @@
+.stile-title {
+    position: relative;
+    font-family: 'Wallpoet',sans-serif;
+    font-size: 5em;
+    margin: 1.5rem auto 1.5rem auto;
+    text-shadow: 0.05em 0.05em 0.04em #000;
+    text-transform: uppercase;
+    letter-spacing: 0.15rem;
+    line-height: 1em;
+    font-weight: normal;
+    overflow: hidden;
+    padding-left: 15px;
+}
+
+.title-color {
+    color: #ff0;
+    text-decoration: none;
+}
